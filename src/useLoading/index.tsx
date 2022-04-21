@@ -7,7 +7,7 @@ type IUseLoadingState = {
 type IUseLoadingOptions<T> = {
   onSuccess: (result: T) => void;
   onError: (err: Error) => void;
-  onFinish: (result: T) => void;
+  onFinish?: (result: T) => void;
 };
 
 export default function useLoading<T>(
