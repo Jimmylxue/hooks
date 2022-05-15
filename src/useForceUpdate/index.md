@@ -12,7 +12,7 @@ nav:
 ```tsx
 import React, { useRef } from 'react';
 import { Button } from 'antd';
-import { useForceUpdate } from '@shihengtech/hooks';
+import { useForceUpdate } from 'hooks';
 
 export default (() => {
   const forceUpdate = useForceUpdate();

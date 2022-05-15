@@ -14,7 +14,7 @@ nav:
 ```tsx
 import React from 'react';
 import { Button } from 'antd';
-import { useLoading } from '@shihengtech/hooks';
+import { useLoading } from 'hooks';
 
 export default (() => {
   const sleep = (ms: number) => {

@@ -12,7 +12,7 @@ nav:
 ```tsx
 import React from 'react';
 import { Button, Table } from 'antd';
-import { useFetch } from '@shihengtech/hooks';
+import { useFetch } from 'hooks';
 
 export default (() => {
   const sleep = (ms: number) => {

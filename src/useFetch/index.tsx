@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import useLoading from '..//useLoading';
+import useLoading from '../useLoading';
 
 /**
  * useEffect 与 useLayoutEffect 的区别：
