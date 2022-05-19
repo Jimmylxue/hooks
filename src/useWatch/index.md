@@ -1,8 +1,3 @@
----
-nav:
-  path: /hooks
----
-
 # useWatch
 
 `useWatch` 用法与 `useEffect` 一致，首次不会触发副作用函数，只有当监听项发生变化之后才会触发副作用函数

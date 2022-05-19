@@ -1,8 +1,3 @@
----
-nav:
-  path: /hooks
----
-
 # useLoading
 
 一个将 loading 的使用抽离出来的 hook。

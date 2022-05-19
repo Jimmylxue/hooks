@@ -1,8 +1,3 @@
----
-nav:
-  path: /hooks
----
-
 # useFetch
 
 在 `useLoading` 基础上，增加了一个类似 useEffect 的副效应函数。

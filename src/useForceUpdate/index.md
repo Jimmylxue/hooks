@@ -1,8 +1,3 @@
----
-nav:
-  path: /hooks
----
-
 # useForceUpdate
 
 一个能够强制函数组件重新渲染的 `hook`，类似于 `class` 组件中的 `this.forceUpdate()`。
